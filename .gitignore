@@ -2,6 +2,7 @@
 # PERSONAL STUFF #
 ##################
 .env
+allowlist.edn
 
 ###########
 # CLOJURE #
